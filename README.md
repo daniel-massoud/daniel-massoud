@@ -29,9 +29,11 @@ Looking for an internship in AI, based in Barcelona and open to remote.
 ## Projects
 
 ### [Sentiment Analyzer](https://github.com/daniel-massoud/sentiment-analyzer)
-Command-line tool that analyzes the sentiment of any text using DistilBERT.
-Built with Python and HuggingFace Transformers.
-`Python` `HuggingFace` `NLP` `DistilBERT`
+Web app that detects sentiment in text using DistilBERT.
+Built with Python, HuggingFace Transformers, and Gradio.
+**[Try the live demo](https://huggingface.co/spaces/daniel-massoud/sentiment-analyzer)**
+
+`Python` `HuggingFace` `NLP` `Gradio` `DistilBERT`
 
 ---
 
