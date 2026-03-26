@@ -37,6 +37,17 @@ Built with Python, HuggingFace Transformers, and Gradio.
 
 ---
 
+### [RAG Document Chatbot](https://github.com/daniel-massoud/rag-chatbot)
+Upload any PDF and ask questions about its contents.
+Retrieves relevant chunks using FAISS vector search, generates grounded answers
+with source page citations using Llama 3.3 70B via Groq.
+Built with Python, LangChain, FAISS, and Gradio.
+**[Try the live demo](https://huggingface.co/spaces/daniel-massoud/rag-chatbot)**
+
+`Python` `LangChain` `FAISS` `RAG` `Groq` `LLM` `Gradio`
+
+---
+
 Contact: daniel.massoud03@gmail.com
 Barcelona, Spain
 <!--
