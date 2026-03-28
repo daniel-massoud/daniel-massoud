@@ -28,6 +28,15 @@ Looking for an internship in AI, based in Barcelona and open to remote.
 
 ## Projects
 
+### [Gesture Draw](https://github.com/daniel-massoud/gesture-draw)
+Real-time drawing app controlled entirely by hand gestures.
+Collected 4000 samples, trained a neural network achieving 99.6% accuracy,
+deployed with MediaPipe and OpenCV running at real-time speed on CPU.
+
+`Python` `MediaPipe` `OpenCV` `scikit-learn` `Computer Vision` `Neural Network`
+
+---
+
 ### [Sentiment Analyzer](https://github.com/daniel-massoud/sentiment-analyzer)
 Web app that detects sentiment in text using DistilBERT.
 Built with Python, HuggingFace Transformers, and Gradio.
