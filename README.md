@@ -48,6 +48,14 @@ Built with Python, LangChain, FAISS, and Gradio.
 
 ---
 
+### [ML API](https://github.com/daniel-massoud/ml-api)
+Production-ready sentiment analysis REST API served with FastAPI,
+containerized with Docker, with health checks and batch prediction endpoints.
+
+`Python` `FastAPI` `Docker` `REST API` `HuggingFace` `MLOps`
+
+---
+
 Contact: daniel.massoud03@gmail.com
 Barcelona, Spain
 <!--
