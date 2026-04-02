@@ -28,6 +28,15 @@ Looking for an internship in AI, based in Barcelona and open to remote.
 
 ## Projects
 
+### [Hand Gesture Game Controller](https://github.com/daniel-massoud/game-controller)
+Control any arrow-key game using hand gestures and your webcam.
+Custom-trained neural network achieving 99.6% accuracy across 5 gesture classes.
+Built with Python, MediaPipe, OpenCV, and PyAutoGUI.
+
+`Python` `MediaPipe` `OpenCV` `Computer Vision` `Neural Network` `PyAutoGUI`
+
+---
+
 ### [Gesture Draw](https://github.com/daniel-massoud/gesture-draw)
 Real-time drawing app controlled entirely by hand gestures.
 Collected 4000 samples, trained a neural network achieving 99.6% accuracy,
