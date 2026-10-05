@@ -1,4 +1,3 @@
-## Hi there 👋
 # Daniel Massoud
 
 AI Engineering student at UAB Barcelona, currently in my second year.
