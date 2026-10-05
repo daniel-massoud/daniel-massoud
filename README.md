@@ -2,7 +2,7 @@
 
 AI Engineering student at UAB Barcelona, currently in my second year.
 I build projects with Python and machine learning ... focused on NLP and large language models.
-Looking for an internship in AI, based in Barcelona and open to remote.
+Based in Barcelona and open to remote.
 
 ---
 
